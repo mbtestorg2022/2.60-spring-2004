@@ -1,0 +1,81 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Energy",
+      "Combustion"
+    ],
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Energy",
+      "Fuel Cells"
+    ],
+    [
+      "Energy",
+      "Hydrogen and Alternatives"
+    ],
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Energy",
+      "Renewables"
+    ]
+  ],
+  "legacy_uid": "0a9888dd-befc-0c79-5449-7181365188a2",
+  "instructors": {
+    "content": [
+      "0210cf2e-100a-f417-29e1-c027584999c3",
+      "0bfe7e89-06bf-c410-14e9-82dd954b3054",
+      "eae5caba-10cf-0fb8-18bb-c7e50b74813f",
+      "45285a22-9f1c-66b2-9989-bba1e4e219fe"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2d8e735f-020c-ca38-f460-aef8b99d9e20",
+    "website": "2-60-fundamentals-of-advanced-energy-conversion-spring-2004"
+  },
+  "course_title": "Fundamentals of Advanced Energy Conversion",
+  "course_description": "This course covers fundamentals of thermodynamics, chemistry, flow and transport processes as applied to energy systems. Topics include analysis of energy conversion in thermomechanical, thermochemical, electrochemical, and photoelectric processes in existing and future power and transportation systems, with emphasis on efficiency, environmental impact and performance. Systems utilizing fossil fuels, hydrogen, nuclear and renewable resources, over a range of sizes and scales are discussed.\u00a0Applications include fuel reforming, hydrogen and synthetic fuel production, fuel cells and batteries, combustion, hybrids, catalysis, supercritical and combined cycles, photovoltaics, etc. The course also deals with different forms of energy storage and transmission, and optimal source utilization and fuel-life cycle analysis.\n",
+  "department_numbers": [
+    "2",
+    "10",
+    "22"
+  ],
+  "extra_course_numbers": "2.62J,10.392J,22.40J,10.390J",
+  "primary_course_number": "2.60",
+  "course_image_thumbnail": {
+    "content": "9d8e41b8-7342-fb56-29db-ff4521f594a8",
+    "website": "2-60-fundamentals-of-advanced-energy-conversion-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Course Introduction",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "ae9f7e76-e1b8-4f3a-af88-333a2df7cfc7",
+  "title": "Course Metadata"
+}
